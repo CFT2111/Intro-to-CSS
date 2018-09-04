@@ -1,8 +1,7 @@
 # Intro to CSS
 
 ## Exercise 1
-* Download the webpage [*tbl.html*](./tbl.html). 
-* Copy this code into a text editor and save it as an HTML page. 
+* Download and save the webpage [*tbl.html*](./tbl.html) (or use your own copy).  
 * In a text editor create a new file, paste in the following
 ```css
 body {
@@ -18,13 +17,13 @@ body {
 <link href="style.css" rel="stylesheet" type="text/css">
 ```
 * Save the HTML page and view it in a browser.
-* The page should be ‘styled’.
+* The page should be 'styled'
 * Add some additional CSS rules in *style.css* and experiment with different CSS properties. The number of CSS properties can be overwhelming for beginnners. To start with just try to make yourself familiar with:
-    * **Text-related properties** : alignment, setting fonts, line height, letter spacing etc.
+    * **Text-related properties** : alignment, changing fonts, line height, letter spacing etc.
     * **Basic box properties** : border, outline, padding and margin
     * **Setting the color of elements** using color names, hexadecimal values, and RGB values. 
         * Use a simple image editor such as Paint to obtain RGB/hex values. 
-    * See https://developer.mozilla.org/en-US/docs/Web/CSS/Reference for a comprehensive reference of CSS properties. 
+    * See https://developer.mozilla.org/bm/docs/Web/CSS for more info. 
 
 ## Exercise 2
 This exercise is all about using selectors. 
