@@ -23,7 +23,7 @@ body {
     * **Basic box properties** : border, outline, padding and margin
     * **Setting the color of elements** using color names, hexadecimal values, and RGB values. 
         * Use a simple image editor such as Paint to obtain RGB/hex values. 
-    * See https://developer.mozilla.org/bm/docs/Web/CSS for more info. 
+    * See https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS for more info on CSS. 
 
 ## Exercise 2
 This exercise is all about using selectors. 
