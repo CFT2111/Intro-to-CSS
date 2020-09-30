@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(200,200,200);
+}
+li{
+  font-family:Arial;
+}
+#other_countries{
+  border:1px solid black;
+}
+.europe{
+  color:red;
+}
+ol li{
+  background-color:lightblue;
+}
+#small_pop_countries .africa{
+  color: green;
+}
