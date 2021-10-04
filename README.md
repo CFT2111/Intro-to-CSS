@@ -24,6 +24,8 @@ body {
     * **Setting the color of elements** using color names, hexadecimal values, and RGB values.
         * Use a simple image editor such as Paint to obtain RGB/hex values.
     * See https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS for more info on CSS.
+        * Text related properties - https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals.
+        * The box model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model.  
 
 ## Exercise 2
 This exercise is all about using selectors.
