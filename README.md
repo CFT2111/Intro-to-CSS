@@ -31,6 +31,8 @@ body {
 ## Exercise 2
 Playing around with different properties is usually fairly easy. The challenge in CSS comes when you need to work out which CSS properties are needed to implement a specific design. Have a look at the following image. How can you make your copy of tbl.html look like this image. 
 
+![tbl](tbl.png "The tbl.html page styled")
+
 ## Exercise 3
 This exercise is all about using selectors.
 * Download [*population.html*](./population.html).
