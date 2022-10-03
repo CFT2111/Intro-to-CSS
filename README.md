@@ -18,16 +18,20 @@ body {
 ```
 * Save the HTML page and view it in a browser.
 * The page should be 'styled'
-* Add some additional CSS rules in *style.css* and experiment with different CSS properties. The number of CSS properties can be overwhelming for beginnners. To start with just try to make yourself familiar with:
+* Add some additional CSS rules in *style.css* and experiment with different CSS properties. 
+* Make sure you add separate CSS rules each of the tags used in the page i.e. headings, paragraphs, lists etc.
+* The number of CSS properties can be overwhelming for beginnners. To start with just try to make yourself familiar with:
     * **Text-related properties** : alignment, changing fonts, line height, letter spacing etc.
     * **Basic box properties** : border, outline, padding and margin
     * **Setting the color of elements** using color names, hexadecimal values, and RGB values.
-        * Use a simple image editor such as Paint to obtain RGB/hex values.
     * See https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS for more info on CSS.
         * Text related properties - https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals.
         * The box model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model.  
 
 ## Exercise 2
+Playing around with different properties is usually fairly easy. The challenge in CSS comes when you need to work out which CSS properties are needed to implement a specific design. Have a look at the following image. How can you make your copy of tbl.html look like this image. 
+
+## Exercise 3
 This exercise is all about using selectors.
 * Download [*population.html*](./population.html).
 * This is a simple HTML page
