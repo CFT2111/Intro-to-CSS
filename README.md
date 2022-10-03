@@ -29,7 +29,7 @@ body {
         * The box model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model.  
 
 ## Exercise 2
-Playing around with different properties is usually fairly easy. The challenge in CSS comes when you need to work out which CSS properties are needed to implement a specific design. Have a look at the following image. How can you make your copy of *tbl.html* look like this image. 
+Playing around with different properties is usually fairly easy. The challenge in CSS comes when you need to work out which CSS properties are needed to implement a specific design. Have a look at the following image. How can you make your copy of *tbl.html* look like this image. To help, the fonts used are Garamond and Arial, and the colours are #f5f5f5, #434343, #d6d5d5 and #45b2f5.
 
 ![tbl](tbl.png "The tbl.html page styled")
 
