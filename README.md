@@ -47,7 +47,7 @@ This exercise is all about using selectors.
 
 **Don’t make any changes to the HTML! Use CSS selectors to select specific parts of the document.**
 
-## Exercise 3
+## Exercise 4
 This exercise is about using multiple classes, a common technique in web design.
 * Download [*multiple-classes.html*](./multiple-classes.html) and [*multiple-classes.css*](./multiple-classes.css).
 * Open the HTML page in a browser. Simply using the existing classes in the CSS file try the following:
